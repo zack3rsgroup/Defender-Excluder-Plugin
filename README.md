@@ -1,2 +1,2 @@
-# Defender-Exluder-Plugin
-Defender Exluder Plugin for Orcus Administration. 
+# Defender-Excluder-Plugin
+Defender Excluder Plugin for Orcus Administration. 
